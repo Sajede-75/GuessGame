@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(168, 186, 235);
+}
+.asd{
+    align-items: center;
+    text-align: center;
+}
+#again{
+    border-radius: 5px;
+    font-size: x-large;
+    background-color:rgb(21, 54, 163);
+    color: white;
+}
+#again:hover{
+    color: rgb(96, 92, 114);
+    border-color: rgb(96, 98, 119);
+}
+.qwe{
+    margin-left: 100px;
+    margin-top: 70px;
+}
+#numges{
+    font-size:30px;
+    background-color:rgb(255, 255, 255);
+    text-align: center;
+    border-style: none;
+    border-radius: 7px;
+    color: gray;
+}
+
+#check{
+    border-radius: 5px;
+    font-size: x-large;
+    background-color: rgb(21, 54, 163);
+    color: black;
+    margin-top: 10px;
+}
+
+.zxc{
+    margin-left: 500px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    align-self:center ;
+    
+}
+
+#correct{
+   border-radius: 4px;
+   background-color: rgb(255, 255, 255);
+   font-size: 32px;
+   text-align: center;
+   color: blue;
+   display: block;
+}
+#warnning{
+   padding-left: 120px;
+}
+.mnb , .dfg{
+    display:inline-block;
+}
+
+#check , #message{
+    display: inline-block;
+}
+#message{
+    margin-left: 50px;
+    font-size: 24px;
+}
+#score , #sc , #Hscore , #Hsc{
+    display: inline-block;
+}
+.dfg{
+    margin-left: 150px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+#Hscore {
+    margin-left: 50px;
+}
